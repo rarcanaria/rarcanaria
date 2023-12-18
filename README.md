@@ -8,9 +8,9 @@
 <h2>🔍 Present Whereabouts</h2>
 <p>I'm currently in college, but I'll be dabbling in minor projects from time to time in order to gain experience and expand my skillset.</p>
 
-  - Right now, I'm making basic sites in HTML, CSS, and JavaScript
-  - I plan on diving deeper into Python and JavaScript
-  - I will be doing one major (relative) project each month for the muscle memory
+  - Right now, I'm making basic sites in HTML, CSS, and JavaScript.
+  - I plan on diving deeper into Python and JavaScript.
+  - I will be doing one major (relative) project each month for the muscle memory.
 
 <h2>✨ Interests</h2>
 
@@ -22,11 +22,11 @@
 <p>I'm currently not looking to collaborate on minor projects, but I plan to soon!</p>
 
 <h2>📫 Contact</h2>
-<p>For a quick response, DM me on Instagram or LinkedIn
+<p>For a quick response, DM me on Instagram or LinkedIn.
 
-For professional inquiries, reach out via email at [email]</p>
+For professional inquiries, reach out via email at [email].</p>
 
-<h1>🚧 This page is under construction! Check back for updates 🚧</h1>
+<h1>🚧 This page is under construction! Check back later for updates. 🚧</h1>
 
 <!---
 rarcanaria/rarcanaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
