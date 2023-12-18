@@ -26,8 +26,6 @@
 
 For professional inquiries, reach out via email at [email].</p>
 
-<h2>🚧 This page is under construction! Check back later for updates. 🚧</h2>
-
 <!---
 rarcanaria/rarcanaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
