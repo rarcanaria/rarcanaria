@@ -1,5 +1,5 @@
 <h3>Hey, I'm Ronron 👋</h3>
-<p>I'm a 21-year-old developer based in Qatar, and I have a deep curiosity for all things tech. Solving problems and learning new things is my passion.</p>
+<p>I'm a 21-year-old developer based in Qatar, and I have a deep curiosity for all things tech. I'm passionate about solving problems and learning new things.</p>
   
   - Check out some projects I've made in my Portfolio.
   - Visit my blog, where I will be logging my journey as a growing developer.
