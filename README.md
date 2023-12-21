@@ -18,7 +18,7 @@
   - I enjoy birdwatching. I have a lot of favorite birds, but right now it's the Golden Pheasant.
   - I also really like giant monsters and mechs. The classic Eva-01 will always be king.
 
-<h2>✒️ Team Up with Me!</h2>
+<h2>✏️ Team Up with Me!</h2>
 <p>I'm currently not looking to collaborate on minor projects, but I plan to soon!</p>
 
 <h2>📫 Contact</h2>
