@@ -19,7 +19,7 @@
   - I also really like giant monsters and mechs. The classic Eva-01 will always be king.
 
 <h2>✏️ Team Up with Me!</h2>
-<p>I'm currently not looking to collaborate on minor projects, but I plan to soon!</p>
+<p>I'm currently not looking to collaborate on projects, but I plan to soon!</p>
 
 <h2>📫 Contact</h2>
 <p>For a quick response, DM me on Instagram or LinkedIn.
