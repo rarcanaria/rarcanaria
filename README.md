@@ -10,13 +10,12 @@
 
   - Right now, I'm making basic sites in HTML, CSS, and JavaScript.
   - I plan on diving deeper into Python and JavaScript.
-  - I will be doing one major (relative) project each month for the muscle memory.
 
 <h2>✨ Interests</h2>
 
   - My dream car is the Porsche 918 Spyder.
   - I enjoy birdwatching. I have a lot of favorite birds, but right now it's the Golden Pheasant.
-  - I also really like giant monsters and mechs. The classic Eva-01 will always be king.
+  - I quite like giant monsters and mechs. The classic Eva-01 will always be king.
 
 <h2>✏️ Team Up with Me!</h2>
 <p>I'm currently not looking to collaborate on projects, but I plan to soon!</p>
